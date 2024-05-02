@@ -1,8 +1,4 @@
 let zahlen = [];
-//zahlen.push("1");
-//zahlen.push("2");
-//zahlen.push("3");
-
 let answer = "";
 
 while (answer !== "exit") {
